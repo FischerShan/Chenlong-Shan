@@ -23,7 +23,7 @@ author_profile: true
 - **Methodology:** Optimization under Uncertainty (Stochastic/Robust), Mixed Integer Programming, Metaheuristics
 - **Applications:** Vehicle Routing, Facility Location, Inventory Control
 
-## PDF Version {#pdf-version}
+## PDF Version (Last Updated Date: 12/15/2025) {#pdf-version}
 
 <p>
   <a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank">
