@@ -1,6 +1,6 @@
 ---
 title: "Personal CV"
-permalink: /cv-simple/
+permalink: /cv-pdf/
 layout: archive
 author_profile: true
 ---
@@ -26,17 +26,17 @@ author_profile: true
 ## PDF Version (Last Updated Date: 12/15/2025) {#pdf-version}
 
 <p>
-  <a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank">
+  <a href="{{ '/files/cv-chenlongshan.pdf' | relative_url }}" target="_blank">
     Open PDF in a new tab
   </a>
   &nbsp;|&nbsp;
-  <a href="{{ '/files/cv.pdf' | relative_url }}" download>
+  <a href="{{ '/files/cv-chenlongshan.pdf' | relative_url }}" download>
     Download PDF
   </a>
 </p>
 
 <iframe
-  src="{{ '/files/cv.pdf' | relative_url }}"
+  src="{{ '/files/cv-chenlongshan.pdf' | relative_url }}"
   width="100%"
   height="900px"
   style="border: 1px solid #ddd; border-radius: 8px;">
@@ -44,5 +44,5 @@ author_profile: true
 
 <p style="margin-top: 0.8rem;">
   If the PDF preview does not load properly, please
-  <a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank">open it in a new tab</a>.
+  <a href="{{ '/files/cv-chenlongshan.pdf' | relative_url }}" target="_blank">open it in a new tab</a>.
 </p>
