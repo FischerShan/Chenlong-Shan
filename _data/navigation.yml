@@ -30,7 +30,7 @@ main:
   #   url: /cv-json/
   
   - title: "CV"
-    url: /cv-simple/
+    url: /cv-pdf/
 
   - title: "Life"
     url: /life/
